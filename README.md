@@ -7,7 +7,7 @@ My name is Aman Tripathi and I am an engineering undergraduate at IIT BHU. I am 
 
 ### Skills 🤹
 
-- HTML, CSS, Javascript, React
+- , CSS, Javascript, React
 - MongoDB, Express, Node
 - Solidity and Blockchain
 
