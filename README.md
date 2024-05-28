@@ -3,17 +3,18 @@
 </div>
 
 ### Hi there 👋
-My name is Aman Tripathi and I am an engineering undergraduate at IIT BHU. I am trying to grow as a fullstack developer and explore open source communities related to same. I am eager to contribute significantly to open source projects and communities.
-- 🔭 I’m currently working on a project ([YelpCamp](https://github.com/aman-at8/Campground)) to sharpen my skills as a full stack developer
-- 🌱 I’m currently learning react, linux, and open source software development
+My name is Aman Tripathi and I am an engineeringgraduate from IIT BHU. I am actively working as a developer in the blockchain domain. I have worked on Dapss as well as on core protocol. I am eager to contribute significantly to open source projects and communities.
+- 🔭 I’m currently working on a project ([YelpCamp](https://github.com/aman-at8/Campground)).
+- 🌱 I’m currently learning rust, Zero-knowledge proofs, and multi-party computation.
 
 ---
 
 ### Skills 🤹
 
-- HTML, CSS, Javascript, React
-- MongoDB, Express, Node
-- Solidity and Blockchain
+- **General purpose languages:** Golang, Javascript.
+- **Frameworks and libraries:** React, Express(JS).
+- **Database:** MySql, RocksDB, MongoDB, Redis.
+- **Tools and Technology:** RabbitMQ, gRPC, Node, Blockchain     
 
 ---
 
